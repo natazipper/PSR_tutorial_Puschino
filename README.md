@@ -8,3 +8,6 @@ Literature:
  https://arxiv.org/abs/2105.13270
 3. Q&A on Hellings and Downs correlations (excellent paper which considers fundamental question on GW detection with pulsars):
  https://arxiv.org/abs/2308.05847
+
+Presentation:
+https://docs.google.com/presentation/d/1Epm5G65_tWju2yvijY8uI_2MiTK_sdrBn8GakgCgM6Y/edit?usp=sharing
